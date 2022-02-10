@@ -1,0 +1,13 @@
+body{
+margin:0px;
+}
+.maintitle{
+background-color:green;
+text-align:center;
+padding:30px;
+}
+.mainblock{
+background-color:red;
+text-align:center;
+padding:30px;
+}
